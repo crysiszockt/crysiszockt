@@ -1,3 +1,4 @@
+<div="centered">
 # 💫 About Me:
 Hello, I'm Lino aka crysiszockt!<br>Me as an Aspiring Game Developer <br>📝likes to code and play video games.🎮<br>
 
@@ -16,3 +17,4 @@ Hello, I'm Lino aka crysiszockt!<br>Me as an Aspiring Game Developer <br>📝lik
 [![](https://visitcount.itsvg.in/api?id=crysiszockt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
