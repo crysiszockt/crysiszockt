@@ -1,6 +1,7 @@
 <div align="center">
 # 💫 About Me:
 Hello, I'm Lino aka crysiszockt!<br>Me as an Aspiring Game Developer <br>📝likes to code and play video games.🎮<br>
+![image](https://github.com/user-attachments/assets/681d6800-76d9-4ead-8dfb-5d223a8f8238)
 
 
 ## 🌐 Socials:
