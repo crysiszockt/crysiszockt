@@ -1,4 +1,4 @@
-<div="centered">
+<div="center">
 # 💫 About Me:
 Hello, I'm Lino aka crysiszockt!<br>Me as an Aspiring Game Developer <br>📝likes to code and play video games.🎮<br>
 
