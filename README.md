@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Lino aka crysiszockt!</h1>
 <img src="grrr-rawr.gif" alt="GIF" width="250" /> <br> <br>
-<h3 align="center">Me as an Aspiring Game Developer 📝likes to code and play video games.🎮</h3>
+<h3 align="center">Me as an Aspiring Game Developer 📝likes to code and play <br> video games.🎮</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crysiszockt&label=Profile%20views&color=0e75b6&style=flat" alt="crysiszockt" /> </p>
 
